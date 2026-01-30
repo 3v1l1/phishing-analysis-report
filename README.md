@@ -92,6 +92,30 @@ appropriate action to protect users and systems.
 This report demonstrates foundational analyst thinking and threat analysis skills.
 
 ---
+## Example Phishing Email Analysis
+
+Below is a fictional phishing email example used for learning and analysis purposes.
+
+From: support@login-banking.com  
+Subject: Urgent: Verify Your Account  
+Date: Mon, 27 Jan 2026 10:15:42 +0000  
+
+Dear Customer,
+
+We detected unusual activity on your account. To prevent suspension,
+please verify your information immediately by clicking the link below.
+
+http://secure-login-verification.com
+
+Thank you,  
+Security Team
+
+### Identified Red Flags
+- Sender domain does not match a legitimate banking domain
+- Urgent and threatening language
+- Suspicious URL unrelated to the claimed organization
+- Generic greeting instead of user’s real name
+
 
 ## Next Steps
 
