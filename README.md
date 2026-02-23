@@ -1,6 +1,3 @@
-# phishing-analysis-report
-Phishing analysis report for SOC analyst fundamentals.
-
 # Phishing Analysis Report
 
 This repository contains a beginner-level phishing analysis report created as part of my
